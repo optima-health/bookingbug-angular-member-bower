@@ -21,6 +21,6 @@
     "tests"
   ],
   "dependencies": {
-    "bookingbug-angular-core": "1.4.114"
+    "bookingbug-angular-core": "git://github.com/optima-health/bookingbug-angular-core-bower#chore/update-angular-spectrum-colorpicker"
   }
 }
