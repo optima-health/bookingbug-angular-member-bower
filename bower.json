@@ -9,8 +9,7 @@
   "main": [
     "bookingbug-angular-member.js",
     "bookingbug-angular-member-templates.js",
-    "bookingbug-angular-member.css",
-    "src/stylesheets/*"
+    "bookingbug-angular-member.css"
   ],
   "license": "MIT",
   "ignore": [
